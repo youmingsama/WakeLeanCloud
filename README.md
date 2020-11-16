@@ -2,7 +2,7 @@
 
 这个项目主要是用来解决LeanCloud通过定时任务唤醒机器时被流控的问题。
 
-## 如何使用
+## 如何使用呢
 
 1. Fork此项目
 2. 添加一个名为`GITHUB_TOKEN`的Token，并为赋予`repo`，`admin:repo_hook` ， `workflow`的权限
